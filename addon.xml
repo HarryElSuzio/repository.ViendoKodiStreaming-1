@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <addon id="repository.ViendoKodiStreaming" name="ViendoKodiStreaming" version="0.1.0" provider-name="Viendo Kodi Team">
+    <addon id="repository.ViendoKodiStreaming" name="[COLOR blue]ViendoKodi[/COLOR] [COLOR red]Streaming[/COLOR] Repository" version="0.1.0" provider-name="Viendo Kodi Team">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
-        <extension point="xbmc.addon.repository" name="ViendoKodiStreaming">
-            <info compressed="false">https://raw.githubusercontent.com/mrbluesky404/plugin.video.ViendoKodiStreaming_repo/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/mrbluesky404/plugin.video.ViendoKodiStreaming_repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/mrbluesky404/plugin.video.ViendoKodiStreaming_repo/</datadir>
+        <extension point="xbmc.addon.repository" name="[COLOR blue]ViendoKodi[/COLOR] [COLOR red]Streaming[/COLOR] Repository">
+            <info compressed="false">https://github.com/mrbluesky404/_repo/addons.xml</info>
+            <checksum>https://github.com/mrbluesky404/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/mrbluesky404/_repo/</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
